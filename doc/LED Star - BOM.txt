@@ -1,0 +1,14 @@
+Bill of Materials
+=================
+
+Item # | Designator | Quantity | Description                     | Package
+-------|------------|----------|---------------------------------|------------------
+1      | IC1        | 1        | HEF4060                         | SMD SOP-16
+2      | D1         | 1        | Diode 1N4148W T4                | SMD 1206 SOD-123
+3      | C1         | 1        | Capacitor Tantalum 10uF (20VDC) | SMD 1206
+       |            |          | (E.g. KEMET T491 Series)        |
+4      | C2         | 1        | 100nF                           | SMD 0805
+5      | R1         | 1        | 47R                             | SMD 0805
+6      | R2, R3     | 2        | 100K                            | SMD 0805
+7      | LD01-LD24  | 24       | LED <= 10 mA                    | SMD 0805
+       |            |          |                                 |
